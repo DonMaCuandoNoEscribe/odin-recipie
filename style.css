@@ -1,0 +1,23 @@
+.head,
+.title {
+    background-color: black;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+}
+.head {
+    font-size: 52;
+}
+.disclaimer {
+    background-color: darkcyan;
+    color: white;
+    font-weight: 400;
+    font-size: large;
+}
+.description {
+    
+}
+.ittem {
+    color: rgb(78, 41, 41);
+    font-weight: bold;
+}
